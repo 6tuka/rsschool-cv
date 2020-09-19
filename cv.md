@@ -1,17 +1,17 @@
- Andrei Shuka
+ # Andrei Shuka
 
-+375295739686\
-Brest, Belarus
+_+375295739686\
+Brest, Belarus_
 
 -------------
- Languages
+### Languages
 
 * Russian (native) 
 * English (google translate :))
 
- Education
+### Education
  * BSPU (Specialty: Mathematics and informatics)
  
- Technical Skills
+### Technical Skills
 * OS: Windows, MacOS, Android
 * Languages: Java, Javascript, html, css
