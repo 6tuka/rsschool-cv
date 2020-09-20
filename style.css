@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    min-width: 200px;
+    font-family: sans-serif;
+    background-color: #baf0f0;font-size: 20px;
+    max-width: 600px;
+    float: center;
+    margin: 0 auto;
+    padding: 0;
+}
+footer {
+    font-style: italic;
+    float: right;
+}
